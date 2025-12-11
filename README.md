@@ -1,2 +1,2 @@
 # DAS-YOLOv13-v2
-The code will be availbale soon. 
+The code will be available soon. 
